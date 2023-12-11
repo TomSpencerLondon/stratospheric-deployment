@@ -1,11 +1,11 @@
 package dev.stratospheric.todoapp.cdk;
 
 import dev.stratospheric.cdk.ApplicationEnvironment;
-import dev.stratospheric.cdk.PostgresDatabase;
 import software.amazon.awscdk.App;
 import software.amazon.awscdk.Environment;
 import software.amazon.awscdk.Stack;
 import software.amazon.awscdk.StackProps;
+import dev.stratospheric.todoapp.cdk.constructs.PostgresDatabase;
 
 public class DatabaseApp {
 

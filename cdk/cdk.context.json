@@ -60,5 +60,14 @@
   "hosted-zone:account=221875718260:domainName=stratospheric.dev:region=eu-central-1": {
     "Id": "/hostedzone/Z081807328Y7TTKJ4NKFU",
     "Name": "stratospheric.dev."
+  },
+  "availability-zones:account=706054169063:region=eu-central-1": [
+    "eu-central-1a",
+    "eu-central-1b",
+    "eu-central-1c"
+  ],
+  "hosted-zone:account=706054169063:domainName=drspencer.io:region=eu-central-1": {
+    "Id": "/hostedzone/Z0234999214VP4XI868MU",
+    "Name": "drspencer.io."
   }
 }
